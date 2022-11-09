@@ -9,9 +9,11 @@
   <ItemGroup>
     <Reference Include="HearthDb">
       <HintPath>..\..\..\..\git-repos\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\bin\x86\Debug\HearthDb.dll</HintPath>
+      <Private>false</Private>
     </Reference>
     <Reference Include="HearthstoneDeckTracker">
       <HintPath>..\..\..\..\git-repos\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\bin\x86\Debug\HearthstoneDeckTracker.exe</HintPath>
+      <Private>false</Private>
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
